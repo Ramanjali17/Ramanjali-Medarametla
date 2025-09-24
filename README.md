@@ -1,10 +1,17 @@
-#Aboubt me
-# Hi, I'm Ramanjali 👋  
+## Hi, I'm Ramanjali 👋 
+I’m a **Data Analyst** with 2+ years of experience in data extraction, cleaning, visualization, and reporting. Skilled in using **SQL, Python, Tableau, Power BI,** and **Excel** to deliver accurate insights and automated dashboards that support business decision-making.
 
-💡 **Data Analyst | SQL | Python | Tableau | Power BI**  
+💡 **Data Analyst | SQL | Python | Tableau | Power BI** 
 
-🎓 Master's in Computer Science | University of Central Missouri  
-📊 2+ years of experience in data extraction, cleaning, visualization, and reporting.  
+📊 2+ years of experience in data extraction, cleaning, visualization, and reporting.
+
+[LinkedIn](https://www.linkedin.com/in/ramanjali-medarametla) | [Email](mailto:ramanjalimedarametla08@gmail.com)  
+
+---
+
+## Education 🎓
+ * Master's in Computer Science | University of Central Missouri | Warrensburg , MO
+ * Bachelor's in Computer Science | KKR & KSR Technologies and Scinces | Guntur , AP
 
 ---
 
