@@ -5,6 +5,10 @@ I’m a **Data Analyst** with 2+ years of experience in data extraction, cleanin
 
 📊 2+ years of experience in data extraction, cleaning, visualization, and reporting.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramanjali-medarametla)  
+[![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramanjalimedarametla08@gmail.com)
+
+
 [LinkedIn](https://www.linkedin.com/in/ramanjali-medarametla) | [Email](mailto:ramanjalimedarametla08@gmail.com)  
 
 ---
